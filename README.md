@@ -1,2 +1,2 @@
 # senselock
-senselock EL SL 
+senselock EL  and LC demo 
